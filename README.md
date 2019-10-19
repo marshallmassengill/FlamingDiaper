@@ -3,7 +3,7 @@ Repo for some homegrown vector/hi-res artwork of NCSSM's famous Flaming Diaper L
 
 ![Flaming Diaper](FlamingDiaper.png)
 
-I wish I had the email from Joe Liles that fully explained the original source of this logo for the school (long since lost in the waste bin of history). IIRC, the story was that it was made in an art design class at NCSU after a grouping of students were told to create logos for this weird new residential high school for smarty pants students was being built in North Carolina.
+I wish I had the email from Joe Liles that fully explained the original source of this logo for the school (long since lost in the waste bin of history). IIRC, the story was that it was made in an art design class at NCSU after a grouping of students were told to create logos for this weird new residential high school for smarty pants students that was being built in North Carolina.
 
 If you know the full details then let me know and I'll update this. You can contact me at marshall@team900.org or massengill05m@ncssm.edu.
 
